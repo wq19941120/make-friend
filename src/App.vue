@@ -3,12 +3,11 @@
  * @Author: qiangwu
  * @LastEditors: qiangwu
  * @Date: 2021-07-01 15:54:46
- * @LastEditTime: 2021-07-01 16:05:44
+ * @LastEditTime: 2021-07-01 16:21:34
  * @FilePath: \make-friend\src\App.vue
 -->
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
